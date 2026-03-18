@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Love Yourz",
+  "base_artist": "J. Cole",
+  "createdAt": "2026-03-18T19:12:21.030278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Yourz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/01_Love_Yourz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Yourz - Live",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/02_Love_Yourz_-_Live_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Yourz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/03_Love_Yourz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Yourz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/04_Love_Yourz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Yourz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/05_Love_Yourz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Yourz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/06_Love_Yourz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Yourz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/07_Love_Yourz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Yourz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/08_Love_Yourz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Yourz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/09_Love_Yourz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Yourz [Explicit]",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/10_Love_Yourz_[Explicit]_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Yourz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/11_Love_Yourz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "LOVE YOURZ",
+      "artist": "Icejustflexin'",
+      "has_synced": true,
+      "path": "select/12_LOVE_YOURZ_Icejustflexin'.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mam dość (Love yourz) - Remix",
+      "artist": "Białas",
+      "has_synced": true,
+      "path": "select/13_Mam_dość_(Love_yourz)_-_Remix_Białas.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Yourz",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/14_Love_Yourz_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love Yourz",
+      "artist": "J. Cole; J. Cole",
+      "has_synced": true,
+      "path": "select/15_Love_Yourz_J._Cole;_J._Cole.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Yourz",
+      "artist": "J.Cole",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Yourz_J.Cole.txt"
+    }
+  ]
+}
